@@ -1,0 +1,3 @@
+1. create repository on your Github account.
+2.use javaScript to write down the solution.
+3.push the solution to the above repository once done.
